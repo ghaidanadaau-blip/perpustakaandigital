@@ -7,7 +7,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Aldebaran](ebook/Aldebaran.pdf) - Tere Liye (2024)
 2. [Bumi](ebook/Bumi.pdf) - Tere Liye (2014)
-3. [Di Tanah Lada](ebook/Di Tanah Lada.pdf) - Ziggy
+3. [Di Tanah Lada](ebook/DiTanahLada.pdf) - Ziggy
 4. [Filsafat Penelitian Ilmu-ilmu Sosial](ebook/Filsafat Penelitian Ilmu-ilmu Sosial.pdf)
 5. [Hana Tara Hata](ebook/Hana Tara Hata.pdf) - Tere Liye (2026)
 6. [Jakarta Sebelum Pagi](ebook/Jakarta Sebelum Pafi.pdf) - Ziggy
