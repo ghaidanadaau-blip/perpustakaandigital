@@ -8,7 +8,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 1. [Aldebaran](ebook/Aldebaran.pdf) - Tere Liye (2024)
 2. [Bumi](ebook/Bumi.pdf) - Tere Liye (2014)
 3. [Di Tanah Lada](ebook/DiTanahLada.pdf) - Ziggy Zezsyazeoviennazabrizkie (2015)
-4. [Filsafat Penelitian Ilmu-ilmu Sosial](ebook/FilsafatPenelitianIlmu-ilmuSosial.pdf)
+4. [Filsafat Penelitian Ilmu-ilmu Sosial](ebook/FilsafatPenelitianIlmu-ilmuSosial.pdf) -  Prof. Dr. Rusadi Kantaprawira (2009)
 5. [Hana Tara Hata](ebook/HanaTaraHata.pdf) - Tere Liye (2026)
 6. [Jakarta Sebelum Pagi](ebook/JakartaSebelumPagi.pdf) - Ziggy Zezsyazeoviennazabrizkie (2016)
 7. [Laskar Pelangi](ebook/LaskarPelangi.pdf) - Andrea Hirata (2005)
