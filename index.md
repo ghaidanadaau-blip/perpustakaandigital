@@ -16,3 +16,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Purple Eyes](ebook/PurpleEyes.pdf) - Prisca Primasari (2015)
 10. [Seporsi Mie Ayam Sebelum Mati](ebook/SeporsiMieAyamSebelumMati.pdf)
 11. [UGC_Ghaida Nada Aulia_13040124120042_A](ebook/UGC_GhaidaNadaAulia_13040124120042_A.pdf) - Nada (2026)
+---
+*Powered by GitHub Pages*
