@@ -15,4 +15,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Madre](ebook/Madre.pdf) - Dee Lestari (2013)
 9. [Purple Eyes](ebook/PurpleEyes.pdf) - Prisca Primasari (2015)
 10. [Seporsi Mie Ayam Sebelum Mati](ebook/SeporsiMieAyamSebelumMati.pdf)
-11. [UGC_Ghaida Nada Aulia_13040124120042_A](ebook/UGCGhaida Nada Aulia13040124120042A.pdf) - Nada (2026)
+11. [UGC_Ghaida Nada Aulia_13040124120042_A](ebook/UGC_Ghaida Nada Aulia_13040124120042_A.pdf) - Nada (2026)
